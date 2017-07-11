@@ -98,6 +98,15 @@ process_swath <- function(adf){
     #mutate(QUAD = gsub("^", "0^", QUAD)) %>%
     mutate(SIDE = gsub("IN", "I", SIDE)) %>%
     mutate(SIDE = gsub("OFF", "O", SIDE)) %>%
+    mutate(SP_CODE = gsub("MYT", "MYSP", SP_CODE)) %>%
+    mutate(SP_CODE = gsub("HAOM", "HOAM", SP_CODE)) %>%
+    mutate(SP_CODE = gsub("USP", "ULSP", SP_CODE)) %>%
+    mutate(SP_CODE = gsub("HOMO", "HOAM", SP_CODE)) %>%
+    mutate(SP_CODE = gsub("ARSU", "ASRU", SP_CODE)) %>%
+    mutate(SP_CODE = gsub("TAADS", "TAAD", SP_CODE)) %>%
+    mutate(SP_CODE = gsub("CYLU ", "CYLU", SP_CODE)) %>%
+    mutate(SP_CODE = gsub("PSSP ", "PHSP", SP_CODE)) %>%
+    mutate(SP_CODE = gsub("BUUC ", "BUCA", SP_CODE)) %>%
     mutate(AREA = 20) %>%
     group_by(NETWORK, PI, YEAR, MONTH, DAY, SITE, TRANSECT, SP_CODE, 
                     QUAD, SIDE, AREA)%>%
@@ -129,7 +138,7 @@ process_pointcount <- function(adf){
     mutate(SP_CODE = gsub("PRE", "SPRE", SP_CODE)) %>% #typo
     mutate(SP_CODE = gsub("SSPRE", "SPRE", SP_CODE)) %>% #typo
     filter(SP_CODE != "-")  %>% #an NA string used improperly
-    group_by(NETWORK, PI, YEAR, MONTH, DAY, SITE, TRANSECT, SIDE, SP_CODE, GROUP) %>%
+    group_by(NETWORK, PI, YEAR, MONTH, DAY, SITE, TRANSECT, SP_CODE, GROUP) %>%
     summarise(PERCENT_COVER = 100*length(SP_CODE)/80) %>%
     ungroup() %>%
     filter(!is.na(SP_CODE))
