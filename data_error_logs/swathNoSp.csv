@@ -1,0 +1,57 @@
+"NETWORK","PI","YEAR","MONTH","DAY","SITE","TRANSECT","SP_CODE","QUAD","SIDE","COUNT","AREA","GROUP","DIVISION.FAMILY","COMMON.DIVISION.NAME","SIZE","COMMON.NAME","KINGDOM","PHYLUM","CLASS","ORDER","FAMILY","GENUS","SPECIES","NOTES"
+"KEEN ONE","Byrnes",2014,7,21,"NE Appledore","Devil's Dance Floor","ARSU","0-20","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,21,"NE Appledore","Devil's Dance Floor","ARSU","20-0","O",8,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,21,"NE Appledore","Devil's Dance Floor","ARSU","20-40","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,21,"NE Appledore","Devil's Dance Floor","ARSU","40-20","O",41,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,10,"Baker South","4","BUUC","0-20","I",5,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,10,"Baker South","4","BUUC","20-0","O",1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,10,"Baker South","4","BUUC","20-40","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,10,"Baker South","4","BUUC","40-20","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,8,13,"SW Appledore","North Smith's Cove","CAMA JV","0-20","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,8,13,"SW Appledore","North Smith's Cove","CAMA JV","20-0","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,8,13,"SW Appledore","North Smith's Cove","CAMA JV","20-40","I",2,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,8,13,"SW Appledore","North Smith's Cove","CAMA JV","40-20","O",1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,9,"Baker North","3","CYLU ","0-20","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,9,"Baker North","3","CYLU ","20-0","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,9,"Baker North","3","CYLU ","20-40","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,9,"Baker North","3","CYLU ","40-20","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,7,14,"Calf Island","1","HAOM","0-20","I",3,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,7,14,"Calf Island","1","HAOM","20-0","O",7,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,7,14,"Calf Island","1","HAOM","20-40","I",1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,7,14,"Calf Island","1","HAOM","40-20","O",4,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,7,14,"Calf Island","2","HAOM","0-20","I",2,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,7,14,"Calf Island","2","HAOM","20-0","O",3,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,7,14,"Calf Island","2","HAOM","20-40","I",1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,7,14,"Calf Island","2","HAOM","40-20","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,7,14,"Calf Island","4","HAOM","0-20","I",1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,7,14,"Calf Island","4","HAOM","20-0","O",5,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,7,14,"Calf Island","4","HAOM","20-40","I",9,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,7,14,"Calf Island","4","HAOM","40-20","O",1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,7,14,"Calf Island","3","HOMO","0-20","I",7,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,7,14,"Calf Island","3","HOMO","20-0","O",5,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,7,14,"Calf Island","3","HOMO","20-40","I",6,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,7,14,"Calf Island","3","HOMO","40-20","O",6,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2016,8,2,"Baker North","1","MYT","0-20","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2016,8,2,"Baker North","1","MYT","20-0","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2016,8,2,"Baker North","1","MYT","20-40","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2016,8,2,"Baker North","1","MYT","40-20","O",4,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,8,8,"Little Brewster","4","PSSP","0-20","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"*entered flatfish, put Pseudopleuronectes sp."
+"KEEN ONE","Byrnes",2014,8,8,"Little Brewster","4","PSSP","20-0","O",1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"*entered flatfish, put Pseudopleuronectes sp."
+"KEEN ONE","Byrnes",2014,8,8,"Little Brewster","4","PSSP","20-40","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"*entered flatfish, put Pseudopleuronectes sp."
+"KEEN ONE","Byrnes",2014,8,8,"Little Brewster","4","PSSP","40-20","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"*entered flatfish, put Pseudopleuronectes sp."
+"KEEN ONE","Byrnes",2016,8,9,"NW Appledore","Sandpiper Beach","TAADS","0-20","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2016,8,9,"NW Appledore","Sandpiper Beach","TAADS","20-0","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2016,8,9,"NW Appledore","Sandpiper Beach","TAADS","20-40","I",2,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2016,8,9,"NW Appledore","Sandpiper Beach","TAADS","40-20","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,18,"NE Appledore","Norwegian Cove","un-readable*","0-20","I",1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,18,"NE Appledore","Norwegian Cove","un-readable*","20-0","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,18,"NE Appledore","Norwegian Cove","un-readable*","20-40","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,18,"NE Appledore","Norwegian Cove","un-readable*","40-20","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2016,9,1,"Little Brewster","4","USP","0-20","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2016,9,1,"Little Brewster","4","USP","20-0","O",7,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2016,9,1,"Little Brewster","4","USP","20-40","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2016,9,1,"Little Brewster","4","USP","40-20","O",3,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Dijkstra",2014,8,20,"Nubble","1","OVOCJ","0-20","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Dijkstra",2014,8,20,"Nubble","1","OVOCJ","20-0","O",1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Dijkstra",2014,8,20,"Nubble","1","OVOCJ","20-40","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Dijkstra",2014,8,20,"Nubble","1","OVOCJ","40-20","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
