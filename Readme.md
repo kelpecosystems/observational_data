@@ -9,6 +9,16 @@ To clean and merge data, run the numbered scripts in the R folder in order. Note
 
 The data QC script will also generate output error logs to diagnose any problems with the data at hand, beyond things that cause scripts to fail.
 
+Adding your site's data
+-----------------------
+
+To contribute data, contact <jarrett.byrnes@umb.edu>. You will need to use the data entry templates at <https://github.com/kelpecosystems/materials/tree/master/Data%20Entry/Observational%20Sampling> and make sure your region has a species list. You should have already contacted Jarrett and your [regional coordinator](http://www.kelpecosystems.org/members/regional-coordinators/) for sampling (or it should be on <https://github.com/kelpecosystems/materials/> in the species list section). If you are using your own, make sure it is formatted properly.
+
+I want to contribute my program's data, but our protocol is different
+---------------------------------------------------------------------
+
+We'd love to make this work! Again, contact <jarrett.byrnes@umb.edu>. You'll need to synch up a KEEN survey with your own survey for one site so that we can figure out how to cross-compare the datasets and build a pipeline to convert your data into KEEN data. If you're already done this, mazel tov! Let's get to work!
+
 Using the Cleaned Data
 ----------------------
 
