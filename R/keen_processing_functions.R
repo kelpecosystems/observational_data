@@ -70,6 +70,7 @@ process_fish <- function(adf){
     gather(SIZE, COUNT, YOY, X0_10_CM, X10_50_CM, X50_100_CM, X_100_CM) %>%
     mutate(SIZE = gsub("_CM","", SIZE)) %>%
     mutate(SIZE = gsub("X","", SIZE)) %>%
+    mutate(SP_CODE = gsub("NO FISH","NO_FISH", SP_CODE)) %>%
     mutate(SIZE = gsub("$_",">", SIZE)) %>%
     mutate(SIZE = gsub("_","-", SIZE)) %>%
     #DEAL WITH NO FISH CODE
