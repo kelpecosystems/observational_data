@@ -100,6 +100,19 @@ process_fish <- function(adf){
 
 
 process_swath <- function(adf){
+
+  if("SIDE" %in% names(adf)){
+    adf <- adf %>%
+      mutate(SIDE = toupper(SIDE),
+             SIDE = str_remove(SIDE, "SHORE"),
+             SIDE = str_replace_all(SIDE, "[ ,-]", "_"),
+             SIDE = str_replace_all(SIDE, "_M_", "_"),
+             SIDE = str_replace_all(SIDE, "^", "X"),
+      ) %>%
+      spread(SIDE, COUNT)
+  }
+  
+  
   adf %>%
     select(NETWORK, PI, YEAR, MONTH, DAY, SITE, TRANSECT, SP_CODE, 
            X0_20_IN, X20_40_IN, X40_20_OFF, X20_0_OFF, NOTES) %>%
