@@ -31,6 +31,9 @@ read_keen_data <- function(filename, sheet=1, debug=FALSE){
 
 process_quad <- function(adf){
   #fix those who have long quad data, like Dijkstra 2015 Nubble
+  if("QUAD_NO" %in% names(adf)){
+    adf <- mutate(adf, QUAD = str_extract(QUAD_NO, "[0-9]+"))
+  }
   if("SIDE" %in% names(adf)){
     adf <- adf %>%
       mutate(SIDE = toupper(SIDE),
