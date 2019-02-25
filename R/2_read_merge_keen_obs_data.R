@@ -11,16 +11,19 @@
   files <- paste0(tl_dir, list.files(tl_dir, recursive=TRUE))
   
   #Who are we not working on
-  files <- files[!grepl("Solomon", files)]
-  files <- files[!grepl("SBC", files)]
-  #files <- files[!grepl("Humphries", files)] #for now
-  
+  files <- files[!grepl("KEEN PNW", files)]
+  files <- files[!grepl("KEEN SOCAL", files)]
+  files <- files[!grepl("SUBEKEEN", files)]
+  files <- files[!grepl("Cape Elizabeth", files)] #only visited once, 1 transect
+
   #Ancillary files
   files <- files[!grepl("\\.pdf", files)]
   files <- files[!grepl("\\.zip", files)]
   files <- files[!grepl("\\.kmz", files)]
   files <- files[!grepl("\\.csv", files)]
   files <- files[!grepl("\\~", files)] #system files
+  files <- files[!grepl("Scan", files)] #images
+  files <- files[!grepl("jpeg", files)] #images
   files <- files[!grepl("DO_NOT_LOAD", files)] #if I had to reprocess files
   
   ########
@@ -84,7 +87,7 @@
     rename(FISH.SIZE = SIZE.x, SIZE = SIZE.y)
   
   coverWithSp <- coverWithSp %>%
-    select(NETWORK, PI, YEAR, MONTH, DAY, SITE, TRANSECT, SIDE, SP_CODE, 
+    select(NETWORK, PI, YEAR, MONTH, DAY, SITE, TRANSECT, SP_CODE, 
            PERCENT_COVER, GROUP, DIVISION.FAMILY, COMMON.DIVISION.NAME, SIZE, 
            COMMON.NAME, KINGDOM, PHYLUM, CLASS, ORDER, FAMILY, 
            GENUS, SPECIES)
