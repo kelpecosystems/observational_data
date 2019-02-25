@@ -30,6 +30,16 @@ read_keen_data <- function(filename, sheet=1, debug=FALSE){
 }
 
 process_quad <- function(adf){
+  #fix those who have long quad data, like Dijkstra 2015 Nubble
+  if("SIDE" %in% names(adf)){
+    adf <- adf %>%
+      mutate(SIDE = toupper(SIDE),
+             QUAD = str_c("Q", QUAD, "_", SIDE)) %>%
+      select(-SIDE) %>%
+      spread(QUAD, COUNT)
+  }
+  
+  
   #subset to selected columns
   adf %>%
     mutate(SP_CODE = gsub("CAIRS", "CAIS", SP_CODE)) %>% #early error
