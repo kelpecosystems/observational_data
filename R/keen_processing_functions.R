@@ -76,6 +76,26 @@ process_quad <- function(adf){
 # head(process_quads(adf))
 
 process_fish <- function(adf){
+  
+  #in case of old template
+  if("SIZE__CM_" %in% names(adf)){
+    adf <- adf %>%
+      mutate( SIZE__CM_ = toupper(SIZE__CM_),
+              SIZE__CM_ = str_replace_all(SIZE__CM_, "-", "_"),
+              SIZE__CM_ = str_replace_all(SIZE__CM_, "$", "_CM"),
+              SIZE__CM_ = str_replace_all(SIZE__CM_, "\\>", "_"),
+              SIZE__CM_ = str_replace_all(SIZE__CM_, "^", "X"),
+      ) %>%
+      spread(SIZE__CM_, COUNT)
+    cols <- c("YOY", "X0_10_CM", "X10_50_CM", "X50_100_CM", "X_100_CM")
+    cols <- cols[!( cols %in% names(adf))]
+    
+    #fix missing columns
+    if(length(cols)>0){
+      adf[,cols]<-0
+    }
+  }
+  
   adf %>%
     select(NETWORK, PI, YEAR, MONTH, DAY, SITE, TRANSECT, SP_CODE,
            YOY, X0_10_CM, X10_50_CM, X50_100_CM, X_100_CM) %>%
