@@ -5,6 +5,9 @@
 #'     
 #' Checks each data source for completeness
 #' and if it fails, writes the error out
+#' 
+#' @changelog
+#' 2018-04-14: added fix for bad fish size classes (-100 to >100)
 ################################
 
 #### Load relevant libraries and helper code ####
@@ -35,7 +38,9 @@ coverWithSp <- read.csv("../derived_data/keen_cover.csv", stringsAsFactors = FAL
 
 
 sites <- read.csv( "../derived_data/keen_sites.csv", stringsAsFactors = FALSE) %>%
-  name_gsub
+  name_gsub %>%
+  mutate(START_LONGITUDE = ifelse(NETWORK=="KEEN ONE" & START_LONGITUDE>0, -1*START_LONGITUDE, START_LONGITUDE),
+         END_LONGITUDE = ifelse(NETWORK=="KEEN ONE" & END_LONGITUDE>0, -1*END_LONGITUDE, END_LONGITUDE))
 
 #### Check that there are no NAs in key fields ####
 
@@ -256,6 +261,9 @@ if(length(bad_latlong_maybe$sd_lon_start) > 0){
   print("PASS: Latlong consistency check passed")
 }
 
+
+#fix fish size class error
+fishWithSp$FISH.SIZE <- gsub("^-100", ">100", fishWithSp$FISH.SIZE)
 
 #### Write out cleaned data ####
 

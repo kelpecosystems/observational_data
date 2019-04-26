@@ -1,6 +1,8 @@
 library(tidyverse)
 library(ggmap)
+source("./keen_processing_functions.R")
 
+sites <- read.csv( "../cleaned_data/keen_sites.csv", stringsAsFactors = FALSE) 
 
 keen_map <- get_map(c(min(sites$START_LONGITUDE, na.rm=TRUE), 
                       min(sites$START_LATITUDE, na.rm=TRUE)),
@@ -49,3 +51,5 @@ ggmap(keen_map) +
   xlab("") + ylab("") +
   theme_bw() +
   scale_size_manual(values=c(2,4,8), guide=guide_legend(title="# Sites"))
+
+
