@@ -1,13 +1,13 @@
 "NETWORK","PI","YEAR","MONTH","DAY","SITE","TRANSECT","SP_CODE","QUAD","SIDE","FISH.SIZE","COUNT","AREA","GROUP","DIVISION.FAMILY","COMMON.DIVISION.NAME","SIZE","COMMON.NAME","KINGDOM","PHYLUM","CLASS","ORDER","FAMILY","GENUS","SPECIES"
-"KEEN ONE","Byrnes",2014,7,9,"Baker North","4","NO FISH",NA,NA,"YOY",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"KEEN ONE","Byrnes",2014,7,9,"Baker North","4","NO FISH",NA,NA,"0-10",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,9,"Baker North","4","NO_FISH",NA,NA,"YOY",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,9,"Baker North","4","NO_FISH",NA,NA,"0-10",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2014,7,9,"Baker North","3","URRE",NA,NA,"0-10",1,80,"Fish","Chordates","Fish",NA,"Spotted Hake","Animalia","Chordata","Actinopterygii","Gadiformes","Phycidae","Urophycis","Urophycis regia"
 "KEEN ONE","Byrnes",2014,7,8,"Baker North","2","TAAD",NA,NA,"0-10",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
-"KEEN ONE","Byrnes",2014,7,9,"Baker North","4","NO FISH",NA,NA,"10-50",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,9,"Baker North","4","NO_FISH",NA,NA,"10-50",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2014,7,8,"Baker North","2","POVI",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
 "KEEN ONE","Byrnes",2014,7,8,"Baker North","1","POVI",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
-"KEEN ONE","Byrnes",2014,7,9,"Baker North","4","NO FISH",NA,NA,"50-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"KEEN ONE","Byrnes",2014,7,9,"Baker North","4","NO FISH",NA,NA,"-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,9,"Baker North","4","NO_FISH",NA,NA,"50-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,9,"Baker North","4","NO_FISH",NA,NA,">100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2014,7,10,"Baker South","4","TAAD",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2014,7,10,"Baker South","3","TAAD",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2014,7,11,"Baker South","2","TAAD",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
@@ -20,10 +20,10 @@
 "KEEN ONE","Byrnes",2014,7,10,"Baker South","3","TAAD",NA,NA,"50-100",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2014,7,11,"Baker South","2","TAAD",NA,NA,"50-100",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2014,7,11,"Baker South","1","POVI",NA,NA,"50-100",0,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
-"KEEN ONE","Byrnes",2014,7,10,"Baker South","4","TAAD",NA,NA,"-100",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
-"KEEN ONE","Byrnes",2014,7,10,"Baker South","3","TAAD",NA,NA,"-100",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
-"KEEN ONE","Byrnes",2014,7,11,"Baker South","2","TAAD",NA,NA,"-100",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
-"KEEN ONE","Byrnes",2014,7,11,"Baker South","1","POVI",NA,NA,"-100",0,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Byrnes",2014,7,10,"Baker South","4","TAAD",NA,NA,">100",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2014,7,10,"Baker South","3","TAAD",NA,NA,">100",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2014,7,11,"Baker South","2","TAAD",NA,NA,">100",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2014,7,11,"Baker South","1","POVI",NA,NA,">100",0,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
 "KEEN ONE","Byrnes",2014,7,24,"Calf Island","3","NO_FISH",NA,NA,"YOY",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2014,7,24,"Calf Island","1","TAAD",NA,NA,"0-10",5,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2014,7,24,"Calf Island","2","TAAD",NA,NA,"0-10",3,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
@@ -33,10 +33,7 @@
 "KEEN ONE","Byrnes",2014,7,24,"Calf Island","3","NO_FISH",NA,NA,"10-50",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2014,7,25,"Calf Island","4","TAAD",NA,NA,"10-50",5,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2014,7,24,"Calf Island","3","NO_FISH",NA,NA,"50-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"KEEN ONE","Byrnes",2014,7,24,"Calf Island","3","NO_FISH",NA,NA,"-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"KEEN ONE","Byrnes",2014,8,21,"Cape Elizabeth","1","TAAD",NA,NA,"0-10",10,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
-"KEEN ONE","Byrnes",2014,8,21,"Cape Elizabeth","1","TAAD",NA,NA,"10-50",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
-"KEEN ONE","Byrnes",2014,8,21,"Cape Elizabeth","1","POVI",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Byrnes",2014,7,24,"Calf Island","3","NO_FISH",NA,NA,">100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2014,8,8,"Little Brewster","1","TAAD",NA,NA,"0-10",3,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2014,8,8,"Little Brewster","2","TAAD",NA,NA,"0-10",3,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2014,8,8,"Little Brewster","3","TAAD",NA,NA,"0-10",3,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
@@ -52,7 +49,7 @@
 "KEEN ONE","Byrnes",2014,7,21,"NE Appledore","Devil's Dance Floor","POVI",NA,NA,"10-50",38,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
 "KEEN ONE","Byrnes",2014,7,18,"NE Appledore","Norwegian Cove","POVI",NA,NA,"10-50",24,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
 "KEEN ONE","Byrnes",2014,7,19,"NE Appledore","Broadway and 42nd","NO_FISH",NA,NA,"50-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"KEEN ONE","Byrnes",2014,7,19,"NE Appledore","Broadway and 42nd","NO_FISH",NA,NA,"-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,19,"NE Appledore","Broadway and 42nd","NO_FISH",NA,NA,">100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2014,7,18,"NW Appledore","Larus Ledge","TAAD",NA,NA,"YOY",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2014,7,21,"NW Appledore","North Head","NO_FISH",NA,NA,"YOY",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2014,7,18,"NW Appledore","Sandpiper Beach","TAAD",NA,NA,"0-10",3,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
@@ -64,7 +61,7 @@
 "KEEN ONE","Byrnes",2014,7,18,"NW Appledore","Larus Ledge","TAAD",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2014,7,21,"NW Appledore","North Head","NO_FISH",NA,NA,"10-50",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2014,7,21,"NW Appledore","North Head","NO_FISH",NA,NA,"50-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"KEEN ONE","Byrnes",2014,7,21,"NW Appledore","North Head","NO_FISH",NA,NA,"-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2014,7,21,"NW Appledore","North Head","NO_FISH",NA,NA,">100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2014,7,19,"SW Appledore","South Pepperrell","TAAD",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2014,7,19,"SW Appledore","North Pepperrell","TAAD",NA,NA,"0-10",10,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2014,7,17,"SW Appledore","North Smith's Cove","TAAD",NA,NA,"0-10",5,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
@@ -127,7 +124,7 @@
 "KEEN ONE","Byrnes",2015,8,12,"SW Appledore","South Pepperrell","TAON",NA,NA,"0-10",41,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
 "KEEN ONE","Byrnes",2015,8,13,"SW Appledore","South Smith's Cove","NO_FISH",NA,NA,"10-50",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2015,8,13,"SW Appledore","South Smith's Cove","NO_FISH",NA,NA,"50-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"KEEN ONE","Byrnes",2015,8,13,"SW Appledore","South Smith's Cove","NO_FISH",NA,NA,"-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2015,8,13,"SW Appledore","South Smith's Cove","NO_FISH",NA,NA,">100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2016,8,4,"Baker North","3","NO_FISH",NA,NA,"YOY",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2016,8,4,"Baker North","3","NO_FISH",NA,NA,"0-10",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2016,8,4,"Baker North","4","TAAD",NA,NA,"0-10",8,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
@@ -140,7 +137,7 @@
 "KEEN ONE","Byrnes",2016,8,4,"Baker North","3","NO_FISH",NA,NA,"50-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2016,8,2,"Baker North","1","TAAD",NA,NA,"50-100",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2016,8,2,"Baker North","2","TAAD",NA,NA,"50-100",4,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
-"KEEN ONE","Byrnes",2016,8,4,"Baker North","3","NO_FISH",NA,NA,"-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2016,8,4,"Baker North","3","NO_FISH",NA,NA,">100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2016,8,3,"Baker South","1","TAAD",NA,NA,"0-10",35,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2016,8,3,"Baker South","2","TAAD",NA,NA,"0-10",13,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2016,8,3,"Baker South","3","TAAD",NA,NA,"0-10",9,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
@@ -158,7 +155,7 @@
 "KEEN ONE","Byrnes",2016,8,30,"Calf Island","1","NO_FISH",NA,NA,"10-50",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2016,8,29,"Calf Island","2","TAAD",NA,NA,"10-50",4,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2016,8,30,"Calf Island","1","NO_FISH",NA,NA,"50-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"KEEN ONE","Byrnes",2016,8,30,"Calf Island","1","NO_FISH",NA,NA,"-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2016,8,30,"Calf Island","1","NO_FISH",NA,NA,">100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2016,8,30,"Little Brewster","3","TAAD",NA,NA,"YOY",9,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2016,8,29,"Little Brewster","2","TAAD",NA,NA,"YOY",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2016,8,25,"Little Brewster","1","TAAD",NA,NA,"YOY",19,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
@@ -186,7 +183,7 @@
 "KEEN ONE","Byrnes",2016,8,9,"NW Appledore","Sandpiper Beach","NO_FISH",NA,NA,"10-50",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2016,8,11,"NW Appledore","North Head","TAAD",NA,NA,"10-50",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2016,8,9,"NW Appledore","Sandpiper Beach","NO_FISH",NA,NA,"50-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"KEEN ONE","Byrnes",2016,8,9,"NW Appledore","Sandpiper Beach","NO_FISH",NA,NA,"-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2016,8,9,"NW Appledore","Sandpiper Beach","NO_FISH",NA,NA,">100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2016,8,10,"SW Appledore","South Pepperrell","TAAD",NA,NA,"YOY",17,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2016,8,10,"SW Appledore","South Pepperrell","TAON",NA,NA,"YOY",17,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
 "KEEN ONE","Byrnes",2016,8,10,"SW Appledore","North Smith's Cove","TAAD",NA,NA,"YOY",52,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
@@ -196,7 +193,151 @@
 "KEEN ONE","Byrnes",2016,8,10,"SW Appledore","North Smith's Cove","TAAD",NA,NA,"0-10",12,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2016,8,10,"SW Appledore","South Smith's Cove","TAAD",NA,NA,"0-10",79,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Byrnes",2016,8,10,"SW Appledore","South Smith's Cove","TAAD",NA,NA,"10-50",3,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
-"KEEN ONE","Dijkstra",2014,8,20,"Nubble","1","TAAD",NA,NA,"0-10",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,7,19,"Baker North","1","TAAD",NA,NA,"YOY",4,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,7,19,"Baker North","2","NO_FISH",NA,NA,"YOY",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,7,19,"Baker North","2","NO_FISH",NA,NA,"0-10",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,7,20,"Baker North","3","TAAD",NA,NA,"0-10",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,7,21,"Baker North","4","TAAD",NA,NA,"0-10",25,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,7,19,"Baker North","2","NO_FISH",NA,NA,"10-50",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,7,19,"Baker North","2","NO_FISH",NA,NA,"50-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,7,19,"Baker North","2","NO_FISH",NA,NA,">100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,7,26,"Baker South","2","TAAD",NA,NA,"YOY",3,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,7,26,"Baker South","3","TAAD",NA,NA,"YOY",7,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,7,26,"Baker South","3","MOSA",NA,NA,"YOY",2,80,"Fish","Chordates","Fish",NA,"Striped Bass","Animalia","Chordata","Actinopterygii","Perciformes","Moronidae","Morone","Morone saxatilis"
+"KEEN ONE","Byrnes",2017,7,31,"Baker South","4","TAAD",NA,NA,"YOY",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,7,21,"Baker South","1","TAAD",NA,NA,"0-10",10,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,7,26,"Baker South","2","TAAD",NA,NA,"0-10",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,7,26,"Baker South","3","TAAD",NA,NA,"0-10",37,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,7,26,"Baker South","3","POVI",NA,NA,"0-10",3,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Byrnes",2017,7,31,"Baker South","4","TAAD",NA,NA,"0-10",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,7,26,"Baker South","3","TAAD",NA,NA,"10-50",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,2,"Calf Island","1","TAAD",NA,NA,"YOY",4,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,2,"Calf Island","1","TAAD",NA,NA,"0-10",36,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,2,"Calf Island","2","TAAD",NA,NA,"0-10",85,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,3,"Calf Island","3","TAAD",NA,NA,"0-10",185,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,3,"Calf Island","4","TAAD",NA,NA,"0-10",5,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,2,"Calf Island","1","TAAD",NA,NA,"10-50",8,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,2,"Calf Island","2","TAAD",NA,NA,"10-50",4,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,3,"Calf Island","3","TAAD",NA,NA,"10-50",45,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,3,"Calf Island","4","TAAD",NA,NA,"10-50",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,4,"Little Brewster","1","TAAD",NA,NA,"YOY",5,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,4,"Little Brewster","2","TAAD",NA,NA,"YOY",3,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,7,"Little Brewster","3","TAAD",NA,NA,"YOY",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,4,"Little Brewster","1","TAAD",NA,NA,"0-10",105,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,4,"Little Brewster","2","TAAD",NA,NA,"0-10",51,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,7,"Little Brewster","3","TAAD",NA,NA,"0-10",33,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,4,"Little Brewster","1","TAAD",NA,NA,"10-50",6,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,4,"Little Brewster","2","TAAD",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,7,"Little Brewster","3","TAAD",NA,NA,"10-50",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,16,"NE Appledore","Broadway 42","NO_FISH",NA,NA,"YOY",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,15,"NE Appledore","Broad Cove","POVI",NA,NA,"YOY",3,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Byrnes",2017,8,16,"NE Appledore","Devil's Dance Floor","TAAD",NA,NA,"YOY",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,16,"NE Appledore","Broadway 42","NO_FISH",NA,NA,"0-10",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,16,"NE Appledore","Broadway 42","NO_FISH",NA,NA,"10-50",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,16,"NE Appledore","Broadway 42","NO_FISH",NA,NA,"50-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,15,"NE Appledore","Norwegian Cove","POVI",NA,NA,"50-100",49,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Byrnes",2017,8,16,"NE Appledore","Broadway 42","NO_FISH",NA,NA,">100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,15,"NW Appledore","8 Ball","POVI",NA,NA,"YOY",3,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Byrnes",2017,8,15,"NW Appledore","North Head","NO_FISH",NA,NA,"YOY",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,16,"NW Appledore","Sandpiper Beach","NO_FISH",NA,NA,"YOY",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,17,"NW Appledore","Larus Ledge","POVI",NA,NA,"0-10",4,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Byrnes",2017,8,15,"NW Appledore","North Head","NO_FISH",NA,NA,"0-10",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,16,"NW Appledore","Sandpiper Beach","NO_FISH",NA,NA,"0-10",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,17,"NW Appledore","Larus Ledge","POVI",NA,NA,"10-50",3,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Byrnes",2017,8,15,"NW Appledore","North Head","NO_FISH",NA,NA,"10-50",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,16,"NW Appledore","Sandpiper Beach","NO_FISH",NA,NA,"10-50",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,15,"NW Appledore","North Head","NO_FISH",NA,NA,"50-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,16,"NW Appledore","Sandpiper Beach","NO_FISH",NA,NA,"50-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,15,"NW Appledore","North Head","NO_FISH",NA,NA,">100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,16,"NW Appledore","Sandpiper Beach","NO_FISH",NA,NA,">100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,17,"SW Appledore","North Smith's Cove","NO_FISH",NA,NA,"YOY",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,17,"SW Appledore","South Pepperrell","NO_FISH",NA,NA,"YOY",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,17,"SW Appledore","North Pepperrell","TAAD",NA,NA,"0-10",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,17,"SW Appledore","North Smith's Cove","NO_FISH",NA,NA,"0-10",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,17,"SW Appledore","South Pepperrell","NO_FISH",NA,NA,"0-10",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,16,"SW Appledore","South Smith's Cove","TAAD",NA,NA,"0-10",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,17,"SW Appledore","North Pepperrell","TAAD",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2017,8,17,"SW Appledore","North Smith's Cove","NO_FISH",NA,NA,"10-50",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,17,"SW Appledore","South Pepperrell","NO_FISH",NA,NA,"10-50",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,16,"SW Appledore","South Smith's Cove","POVI",NA,NA,"10-50",2,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Byrnes",2017,8,17,"SW Appledore","North Smith's Cove","NO_FISH",NA,NA,"50-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,17,"SW Appledore","South Pepperrell","NO_FISH",NA,NA,"50-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,16,"SW Appledore","South Smith's Cove","POVI",NA,NA,"50-100",4,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Byrnes",2017,8,17,"SW Appledore","North Smith's Cove","NO_FISH",NA,NA,">100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,17,"SW Appledore","South Pepperrell","NO_FISH",NA,NA,">100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,16,"SW Appledore","South Smith's Cove","POVI",NA,NA,">100",1,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Byrnes",2018,7,10,"Baker North","2","NO_FISH",NA,NA,"YOY",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2018,7,10,"Baker North","1","TAAD",NA,NA,"0-10",3,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,7,10,"Baker North","2","NO_FISH",NA,NA,"0-10",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2018,7,11,"Baker North","3","TAAD",NA,NA,"0-10",10,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,1,"Baker North","4","TAAD",NA,NA,"0-10",56,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,7,10,"Baker North","2","NO_FISH",NA,NA,"10-50",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2018,8,1,"Baker North","4","TAAD",NA,NA,"10-50",5,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,7,10,"Baker North","2","NO_FISH",NA,NA,"50-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2018,7,10,"Baker North","2","NO_FISH",NA,NA,">100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2018,7,3,"Baker South","1","TAAD",NA,NA,"0-10",18,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,7,3,"Baker South","1","TAON",NA,NA,"0-10",1,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Byrnes",2018,7,5,"Baker South","2","TAAD",NA,NA,"0-10",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,7,9,"Baker South","3","TAAD",NA,NA,"0-10",83,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,7,9,"Baker South","4","TAAD",NA,NA,"0-10",44,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,7,3,"Baker South","1","TAAD",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,7,5,"Baker South","2","TAAD",NA,NA,"10-50",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,7,9,"Baker South","3","TAAD",NA,NA,"10-50",3,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,7,9,"Baker South","4","TAAD",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,28,"NE Appledore","Broad Cove","TAAD",NA,NA,"YOY",3,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,28,"NE Appledore","Norwegian Cove","TAAD",NA,NA,"YOY",12,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,28,"NE Appledore","Broadway and 42nd","TAAD",NA,NA,"YOY",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,28,"NE Appledore","Devils Dance Floor","TAAD",NA,NA,"YOY",9,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,28,"NE Appledore","Broad Cove","TAAD",NA,NA,"0-10",16,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,28,"NE Appledore","Norwegian Cove","TAAD",NA,NA,"0-10",78,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,28,"NE Appledore","Broadway and 42nd","TAAD",NA,NA,"0-10",158,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,28,"NE Appledore","Broadway and 42nd","TOAN",NA,NA,"0-10",26,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2018,8,28,"NE Appledore","Broadway and 42nd","POVI",NA,NA,"0-10",3,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Byrnes",2018,8,28,"NE Appledore","Devils Dance Floor","TAAD",NA,NA,"0-10",26,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,28,"NE Appledore","Norwegian Cove","TAAD",NA,NA,"10-50",5,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,28,"NE Appledore","Broadway and 42nd","TAAD",NA,NA,"10-50",18,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,28,"NE Appledore","Broadway and 42nd","TOAN",NA,NA,"10-50",1,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2018,8,28,"NE Appledore","Devils Dance Floor","TAAD",NA,NA,"10-50",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,29,"NW Appledore","8 Ball","TAAD",NA,NA,"YOY",37,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Sandpiper Beach","TAAD",NA,NA,"YOY",27,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,29,"NW Appledore","North Head","TAAD",NA,NA,"0-10",72,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,29,"NW Appledore","North Head","MOSA",NA,NA,"0-10",32,80,"Fish","Chordates","Fish",NA,"Striped Bass","Animalia","Chordata","Actinopterygii","Perciformes","Moronidae","Morone","Morone saxatilis"
+"KEEN ONE","Byrnes",2018,8,29,"NW Appledore","8 Ball","TAAD",NA,NA,"0-10",60,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Larus Ledge","TAAD",NA,NA,"0-10",21,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Sandpiper Beach","TAAD",NA,NA,"0-10",21,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Larus Ledge","TAAD",NA,NA,"10-50",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Sandpiper Beach","TAAD",NA,NA,"10-50",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,30,"SW Appledore","North Pepperrell","TAAD",NA,NA,"YOY",55,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,31,"SW Appledore","North Smith","TAAD",NA,NA,"YOY",28,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,31,"SW Appledore","South Pepperrell","TAAD",NA,NA,"YOY",3,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,31,"SW Appledore","South Smith","TAAD",NA,NA,"YOY",46,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,30,"SW Appledore","North Pepperrell","TAAD",NA,NA,"0-10",32,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,31,"SW Appledore","North Smith","TAAD",NA,NA,"0-10",39,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,31,"SW Appledore","South Pepperrell","TAAD",NA,NA,"0-10",14,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,31,"SW Appledore","South Smith","TAAD",NA,NA,"0-10",13,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,30,"SW Appledore","North Pepperrell","TAAD",NA,NA,"10-50",7,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,31,"SW Appledore","North Smith","TAAD",NA,NA,"10-50",3,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,31,"SW Appledore","South Pepperrell","TAAD",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Byrnes",2018,8,31,"SW Appledore","South Smith","TAAD",NA,NA,"10-50",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Cleaver",2017,7,27,"HURR","3","POVI",NA,NA,"10-50",18,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Cleaver",2017,7,27,"HURR","3","PSAM",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Winter flounder","Animalia","Chordata","Actinopterygii","Pleuronectiformes","Pleuronectidae","Pseudopleuronectes","Pseudopleuronectes americanus"
+"KEEN ONE","Cleaver",2017,8,14,"HURR","1","POVI",NA,NA,"10-50",37,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Cleaver",2017,8,15,"HURR","3","PADE",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Summer Flounder","Animalia","Chordata","Actinopterygii","Pleuronectiformes","Paralichthyidae","Paralichthys","Paralichthys dentatus"
+"KEEN ONE","Dijkstra",2014,8,20,"Nubble Lighthouse","1","TAAD",NA,NA,"0-10",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Dijkstra",2015,8,14,"Nubble Lighthouse","1","TAAD",NA,NA,"0-10",6,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Dijkstra",2015,8,14,"Nubble Lighthouse","1","TAAD",NA,NA,"10-50",3,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Dijkstra",2017,9,27,"Nubble Lighthouse","1","TAAD",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Dijkstra",2017,9,27,"Nubble Lighthouse","2","TAAD",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Dijkstra",2017,9,27,"Nubble Lighthouse","3","PSAM",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Winter flounder","Animalia","Chordata","Actinopterygii","Pleuronectiformes","Pleuronectidae","Pseudopleuronectes","Pseudopleuronectes americanus"
+"KEEN ONE","Dijkstra",2017,9,27,"Nubble Lighthouse","3","TAAD",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Dijkstra",2017,9,27,"Nubble Lighthouse","4","TAAD",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Dijkstra",2017,9,27,"Nubble Lighthouse","1","TAAD",NA,NA,"0-10",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Dijkstra",2017,9,27,"Nubble Lighthouse","2","TAAD",NA,NA,"0-10",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Dijkstra",2017,9,27,"Nubble Lighthouse","3","TAAD",NA,NA,"0-10",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Dijkstra",2017,9,27,"Nubble Lighthouse","4","TAAD",NA,NA,"0-10",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Dijkstra",2017,9,27,"Nubble Lighthouse","2","TAAD",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Dijkstra",2017,9,27,"Nubble Lighthouse","2","TAAD",NA,NA,"50-100",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Dijkstra",2017,9,27,"Nubble Lighthouse","3","PSAM",NA,NA,">100",1,80,"Fish","Chordates","Fish",NA,"Winter flounder","Animalia","Chordata","Actinopterygii","Pleuronectiformes","Pleuronectidae","Pseudopleuronectes","Pseudopleuronectes americanus"
 "KEEN ONE","Grabowski",2015,8,4,"Canoe Beach","1","TAAD",NA,NA,"YOY",5,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Grabowski",2015,8,4,"Canoe Beach","1","TAAD",NA,NA,"0-10",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Grabowski",2015,8,4,"Canoe Beach","1","PSAM",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Winter flounder","Animalia","Chordata","Actinopterygii","Pleuronectiformes","Pleuronectidae","Pseudopleuronectes","Pseudopleuronectes americanus"
@@ -206,19 +347,68 @@
 "KEEN ONE","Grabowski",2015,8,7,"Pumphouse Beach","2","TAAD",NA,NA,"0-10",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Grabowski",2015,8,7,"Pumphouse Beach","1","NO_FISH",NA,NA,"10-50",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Grabowski",2015,8,7,"Pumphouse Beach","1","NO_FISH",NA,NA,"50-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"KEEN ONE","Grabowski",2015,8,7,"Pumphouse Beach","1","NO_FISH",NA,NA,"-100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Grabowski",2015,8,7,"Pumphouse Beach","1","NO_FISH",NA,NA,">100",0,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Grabowski",2016,8,16,"Canoe Beach","1","TAAD",NA,NA,"YOY",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Grabowski",2016,8,16,"Canoe Beach","1","CEST",NA,NA,"YOY",4,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
 "KEEN ONE","Grabowski",2016,8,16,"Canoe Beach","1","TAAD",NA,NA,"0-10",17,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Grabowski",2016,8,16,"Canoe Beach","2","TAAD",NA,NA,"0-10",31,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Grabowski",2016,8,16,"Canoe Beach","2","TAAD",NA,NA,"10-50",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Grabowski",2016,8,16,"Canoe Beach","2","PSAM",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Winter flounder","Animalia","Chordata","Actinopterygii","Pleuronectiformes","Pleuronectidae","Pseudopleuronectes","Pseudopleuronectes americanus"
+"KEEN ONE","Grabowski",2016,8,3,"Pemaquid","3","TAAD",NA,NA,"0-10",15,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2016,8,3,"Pemaquid","3","POVI",NA,NA,"0-10",17,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Grabowski",2016,8,3,"Pemaquid","3","TAAD",NA,NA,"10-50",7,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2016,8,3,"Pemaquid","3","CEST",NA,NA,"10-50",2,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Grabowski",2016,8,3,"Pemaquid","3","POVI",NA,NA,"10-50",9,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Grabowski",2016,8,8,"Pemaquid","4","TAAD",NA,NA,"10-50",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2016,8,3,"Pemaquid","3","POVI",NA,NA,"50-100",1,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
 "KEEN ONE","Grabowski",2016,7,13,"Pemaquid","1","TAAD",NA,NA,"YOY",8,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Grabowski",2016,7,13,"Pemaquid","1","TAAD",NA,NA,"0-10",13,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Grabowski",2016,7,13,"Pemaquid","2","TAAD",NA,NA,"0-10",5,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Grabowski",2016,7,13,"Pemaquid","2","POVI",NA,NA,"0-10",3,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
 "KEEN ONE","Grabowski",2016,7,13,"Pemaquid","1","TAAD",NA,NA,"10-50",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
 "KEEN ONE","Grabowski",2016,7,13,"Pemaquid","2","POVI",NA,NA,"10-50",35,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Grabowski",2017,7,21,"Canoe Beach","1","TAAD",NA,NA,"YOY",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,7,21,"Pumphouse Beach","3","TAAD",NA,NA,"YOY",1,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,7,21,"Canoe Beach","2","TAAD",NA,NA,"0-10",38,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,7,21,"Pumphouse Beach","3","TAAD",NA,NA,"0-10",7,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,7,21,"Pumphouse Beach","3","POVI",NA,NA,"0-10",1,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Grabowski",2017,7,21,"Pumphouse Beach","4","TAAD",NA,NA,"0-10",3,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,7,21,"Pumphouse Beach","4","POVI",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","1","TAAD",NA,NA,"YOY",5,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","1","POVI",NA,NA,"YOY",2,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","2","TAAD",NA,NA,"YOY",17,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","3","TAAD",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","3","POVI",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","4","TAAD",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","4","POVI",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","1","TAAD",NA,NA,"0-10",4,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","1","POVI",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","2","TAAD",NA,NA,"0-10",12,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","3","TAAD",NA,NA,"0-10",18,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","3","POVI",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","4","TAAD",NA,NA,"0-10",17,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","4","POVI",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","1","TAAD",NA,NA,"10-50",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","1","POVI",NA,NA,"10-50",0,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","2","TAAD",NA,NA,"10-50",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","3","TAAD",NA,NA,"10-50",6,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","3","POVI",NA,NA,"10-50",3,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","4","TAAD",NA,NA,"10-50",9,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","4","POVI",NA,NA,"10-50",0,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","1","TAAD",NA,NA,"50-100",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","1","POVI",NA,NA,"50-100",0,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","2","TAAD",NA,NA,"50-100",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","3","TAAD",NA,NA,"50-100",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","3","POVI",NA,NA,"50-100",0,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","4","TAAD",NA,NA,"50-100",12,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","4","POVI",NA,NA,"50-100",4,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","1","TAAD",NA,NA,">100",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","1","POVI",NA,NA,">100",0,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","2","TAAD",NA,NA,">100",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","3","TAAD",NA,NA,">100",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","3","POVI",NA,NA,">100",0,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","4","TAAD",NA,NA,">100",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Grabowski",2017,8,11,"PEMA","4","POVI",NA,NA,">100",0,80,"Fish","Chordates","Fish",NA,"Pollock","Animalia","Chordata","Actinopterygii","Gadiformes","Gadidae","Pollachius","Pollachius virens"
 "KEEN ONE","Humphries",2016,8,23,"Fort Weatherill","1","CEST",NA,NA,"0-10",11,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
 "KEEN ONE","Humphries",2016,8,23,"Fort Weatherill","1","STCH",NA,NA,"0-10",3,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
 "KEEN ONE","Humphries",2016,8,23,"Fort Weatherill","1","TAAD",NA,NA,"0-10",33,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
@@ -246,3 +436,119 @@
 "KEEN ONE","Humphries",2016,8,23,"Fort Weatherill","1","TAON",NA,NA,"50-100",1,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
 "KEEN ONE","Humphries",2016,8,23,"Fort Weatherill","2","TAON",NA,NA,"50-100",1,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
 "KEEN ONE","Humphries",2016,8,24,"Fort Weatherill","4","PADE",NA,NA,"50-100",1,80,"Fish","Chordates","Fish",NA,"Summer Flounder","Animalia","Chordata","Actinopterygii","Pleuronectiformes","Paralichthyidae","Paralichthys","Paralichthys dentatus"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","1","CEST",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","1","PADE",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Summer Flounder","Animalia","Chordata","Actinopterygii","Pleuronectiformes","Paralichthyidae","Paralichthys","Paralichthys dentatus"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","1","STCH",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","1","TAAD",NA,NA,"YOY",40,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","1","TAON",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","2","CEST",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","2","STCH",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","2","TAAD",NA,NA,"YOY",119,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","2","TAON",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","3","PADE",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Summer Flounder","Animalia","Chordata","Actinopterygii","Pleuronectiformes","Paralichthyidae","Paralichthys","Paralichthys dentatus"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","4","CEST",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","4","PADE",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Summer Flounder","Animalia","Chordata","Actinopterygii","Pleuronectiformes","Paralichthyidae","Paralichthys","Paralichthys dentatus"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","4","TAAD",NA,NA,"YOY",20,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","4","TAON",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","3","CEST",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","3","TAAD",NA,NA,"YOY",62,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","3","TAON",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","1","CEST",NA,NA,"0-10",1,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","1","PADE",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"Summer Flounder","Animalia","Chordata","Actinopterygii","Pleuronectiformes","Paralichthyidae","Paralichthys","Paralichthys dentatus"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","1","STCH",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","1","TAAD",NA,NA,"0-10",102,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","1","TAON",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","2","CEST",NA,NA,"0-10",2,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","2","STCH",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","2","TAAD",NA,NA,"0-10",162,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","2","TAON",NA,NA,"0-10",2,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","3","PADE",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"Summer Flounder","Animalia","Chordata","Actinopterygii","Pleuronectiformes","Paralichthyidae","Paralichthys","Paralichthys dentatus"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","4","CEST",NA,NA,"0-10",3,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","4","PADE",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"Summer Flounder","Animalia","Chordata","Actinopterygii","Pleuronectiformes","Paralichthyidae","Paralichthys","Paralichthys dentatus"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","4","TAAD",NA,NA,"0-10",104,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","4","TAON",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","3","CEST",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","3","TAAD",NA,NA,"0-10",145,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","3","TAON",NA,NA,"0-10",1,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","1","CEST",NA,NA,"10-50",5,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","1","PADE",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Summer Flounder","Animalia","Chordata","Actinopterygii","Pleuronectiformes","Paralichthyidae","Paralichthys","Paralichthys dentatus"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","1","STCH",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","1","TAAD",NA,NA,"10-50",4,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","1","TAON",NA,NA,"10-50",12,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","2","CEST",NA,NA,"10-50",5,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","2","STCH",NA,NA,"10-50",3,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","2","TAAD",NA,NA,"10-50",2,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","2","TAON",NA,NA,"10-50",6,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","3","PADE",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Summer Flounder","Animalia","Chordata","Actinopterygii","Pleuronectiformes","Paralichthyidae","Paralichthys","Paralichthys dentatus"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","4","CEST",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","4","PADE",NA,NA,"10-50",0,80,"Fish","Chordates","Fish",NA,"Summer Flounder","Animalia","Chordata","Actinopterygii","Pleuronectiformes","Paralichthyidae","Paralichthys","Paralichthys dentatus"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","4","TAAD",NA,NA,"10-50",7,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","4","TAON",NA,NA,"10-50",8,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","3","CEST",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","3","TAAD",NA,NA,"10-50",20,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","3","TAON",NA,NA,"10-50",4,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","1","CEST",NA,NA,"50-100",0,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","1","PADE",NA,NA,"50-100",0,80,"Fish","Chordates","Fish",NA,"Summer Flounder","Animalia","Chordata","Actinopterygii","Pleuronectiformes","Paralichthyidae","Paralichthys","Paralichthys dentatus"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","1","STCH",NA,NA,"50-100",0,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","1","TAAD",NA,NA,"50-100",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","1","TAON",NA,NA,"50-100",1,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","2","CEST",NA,NA,"50-100",1,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","2","STCH",NA,NA,"50-100",0,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","2","TAAD",NA,NA,"50-100",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2017,8,29,"Fort Weatherill","2","TAON",NA,NA,"50-100",1,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","3","PADE",NA,NA,"50-100",0,80,"Fish","Chordates","Fish",NA,"Summer Flounder","Animalia","Chordata","Actinopterygii","Pleuronectiformes","Paralichthyidae","Paralichthys","Paralichthys dentatus"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","4","CEST",NA,NA,"50-100",0,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","4","PADE",NA,NA,"50-100",1,80,"Fish","Chordates","Fish",NA,"Summer Flounder","Animalia","Chordata","Actinopterygii","Pleuronectiformes","Paralichthyidae","Paralichthys","Paralichthys dentatus"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","4","TAAD",NA,NA,"50-100",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","4","TAON",NA,NA,"50-100",3,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","3","CEST",NA,NA,"50-100",1,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","3","TAAD",NA,NA,"50-100",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2017,8,31,"Fort Weatherill","3","TAON",NA,NA,"50-100",1,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","2","CEST",NA,NA,"YOY",17,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","2","STCH",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","2","TAAD",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","2","TAON",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","3","CEST",NA,NA,"YOY",12,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","3","STCH",NA,NA,"YOY",815,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","3","TAAD",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","3","TAON",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2018,9,10,"Fort Weatherill","1","CEST",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2018,9,10,"Fort Weatherill","1","STCH",NA,NA,"YOY",220,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
+"KEEN ONE","Humphries",2018,9,10,"Fort Weatherill","1","TAAD",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2018,9,24,"Fort Weatherill","4","CEST",NA,NA,"YOY",34,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2018,9,24,"Fort Weatherill","4","MOSA",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Striped Bass","Animalia","Chordata","Actinopterygii","Perciformes","Moronidae","Morone","Morone saxatilis"
+"KEEN ONE","Humphries",2018,9,24,"Fort Weatherill","4","STCH",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
+"KEEN ONE","Humphries",2018,9,24,"Fort Weatherill","4","TAAD",NA,NA,"YOY",35,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2018,9,24,"Fort Weatherill","4","TAON",NA,NA,"YOY",0,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","2","CEST",NA,NA,"0-10",37,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","2","STCH",NA,NA,"0-10",30,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","2","TAAD",NA,NA,"0-10",39,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","2","TAON",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","3","CEST",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","3","STCH",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","3","TAAD",NA,NA,"0-10",99,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","3","TAON",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2018,9,10,"Fort Weatherill","1","CEST",NA,NA,"0-10",14,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2018,9,10,"Fort Weatherill","1","STCH",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
+"KEEN ONE","Humphries",2018,9,10,"Fort Weatherill","1","TAAD",NA,NA,"0-10",20,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2018,9,24,"Fort Weatherill","4","CEST",NA,NA,"0-10",6,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2018,9,24,"Fort Weatherill","4","MOSA",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"Striped Bass","Animalia","Chordata","Actinopterygii","Perciformes","Moronidae","Morone","Morone saxatilis"
+"KEEN ONE","Humphries",2018,9,24,"Fort Weatherill","4","STCH",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
+"KEEN ONE","Humphries",2018,9,24,"Fort Weatherill","4","TAAD",NA,NA,"0-10",173,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2018,9,24,"Fort Weatherill","4","TAON",NA,NA,"0-10",0,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","2","CEST",NA,NA,"10-50",2,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","2","STCH",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","2","TAAD",NA,NA,"10-50",111,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","2","TAON",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","3","CEST",NA,NA,"10-50",3,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","3","STCH",NA,NA,"10-50",0,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","3","TAAD",NA,NA,"10-50",103,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2018,9,7,"Fort Weatherill","3","TAON",NA,NA,"10-50",6,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
+"KEEN ONE","Humphries",2018,9,10,"Fort Weatherill","1","CEST",NA,NA,"10-50",2,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2018,9,10,"Fort Weatherill","1","STCH",NA,NA,"10-50",1,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
+"KEEN ONE","Humphries",2018,9,10,"Fort Weatherill","1","TAAD",NA,NA,"10-50",47,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2018,9,24,"Fort Weatherill","4","CEST",NA,NA,"10-50",3,80,"Fish","Chordates","Fish",NA,"black sea bass","Animalia","Chordata","Actinopterygii","Perciformes","Serranidae","Centropristis","Centropristis striata"
+"KEEN ONE","Humphries",2018,9,24,"Fort Weatherill","4","MOSA",NA,NA,"10-50",12,80,"Fish","Chordates","Fish",NA,"Striped Bass","Animalia","Chordata","Actinopterygii","Perciformes","Moronidae","Morone","Morone saxatilis"
+"KEEN ONE","Humphries",2018,9,24,"Fort Weatherill","4","STCH",NA,NA,"10-50",2,80,"Fish","Chordates","Fish",NA,"Scup/porgy","Animalia","Chordata","Actinopterygii","Perciformes","Sparidae","Stenotomus","Stenotomus chrysops"
+"KEEN ONE","Humphries",2018,9,24,"Fort Weatherill","4","TAAD",NA,NA,"10-50",87,80,"Fish","Chordates","Fish",NA,"Cunner ","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautogolabrus","Tautogolabrus adspersus"
+"KEEN ONE","Humphries",2018,9,24,"Fort Weatherill","4","TAON",NA,NA,"10-50",10,80,"Fish","Chordates","Fish",NA,"Tautog or Blackfish","Animalia","Chordata","Actinopterygii","Perciformes","Labridae","Tautoga","Tautoga onitis"
