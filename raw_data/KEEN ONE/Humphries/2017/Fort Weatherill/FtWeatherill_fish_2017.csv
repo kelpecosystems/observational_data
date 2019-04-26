@@ -1,0 +1,18 @@
+YEAR,MONTH,DAY,DATE,SITE,VIS,TRANSECT,SP_CODE,OBS_CODE,NOTES,ENTERED BY,CHECKED BY,0_10,10_50,50_100,YOY
+2017,8,29,2017-08-29T00:00:00Z,Fort Weatherill,2.5,1,CEST,Austin Humphries,NA,Austin Humphries,Evans Arizi,1,5,NA,NA
+2017,8,29,2017-08-29T00:00:00Z,Fort Weatherill,2.5,1,PADE,Austin Humphries,NA,Austin Humphries,Evans Arizi,NA,1,NA,NA
+2017,8,29,2017-08-29T00:00:00Z,Fort Weatherill,2.5,1,STCH,Austin Humphries,NA,Austin Humphries,Evans Arizi,NA,1,NA,NA
+2017,8,29,2017-08-29T00:00:00Z,Fort Weatherill,2.5,1,TAAD,Austin Humphries,NA,Austin Humphries,Evans Arizi,102,4,NA,40
+2017,8,29,2017-08-29T00:00:00Z,Fort Weatherill,2.5,1,TAON,Austin Humphries,NA,Austin Humphries,Evans Arizi,NA,12,1,NA
+2017,8,29,2017-08-29T00:00:00Z,Fort Weatherill,2.5,2,CEST,Austin Humphries,NA,Austin Humphries,Evans Arizi,2,5,1,NA
+2017,8,29,2017-08-29T00:00:00Z,Fort Weatherill,2.5,2,STCH,Austin Humphries,NA,Austin Humphries,Evans Arizi,NA,3,NA,NA
+2017,8,29,2017-08-29T00:00:00Z,Fort Weatherill,2.5,2,TAAD,Austin Humphries,NA,Austin Humphries,Evans Arizi,162,2,NA,119
+2017,8,29,2017-08-29T00:00:00Z,Fort Weatherill,2.5,2,TAON,Austin Humphries,NA,Austin Humphries,Evans Arizi,2,6,1,NA
+2017,8,31,2017-08-31T00:00:00Z,Fort Weatherill,1.5,3,PADE,Austin Humphries,NA,Austin Humphries,Evans Arizi,NA,1,NA,NA
+2017,8,31,2017-08-31T00:00:00Z,Fort Weatherill,1.5,4,CEST,Austin Humphries,NA,Austin Humphries,Evans Arizi,3,1,NA,NA
+2017,8,31,2017-08-31T00:00:00Z,Fort Weatherill,1.5,4,PADE,Austin Humphries,NA,Austin Humphries,Evans Arizi,NA,NA,1,NA
+2017,8,31,2017-08-31T00:00:00Z,Fort Weatherill,1.5,4,TAAD,Austin Humphries,NA,Austin Humphries,Evans Arizi,104,7,NA,20
+2017,8,31,2017-08-31T00:00:00Z,Fort Weatherill,1.5,4,TAON,Austin Humphries,NA,Austin Humphries,Evans Arizi,NA,8,3,NA
+2017,8,31,2017-08-31T00:00:00Z,Fort Weatherill,2,3,CEST,Austin Humphries,NA,Austin Humphries,Evans Arizi,NA,1,1,NA
+2017,8,31,2017-08-31T00:00:00Z,Fort Weatherill,2,3,TAAD,Austin Humphries,NA,Austin Humphries,Evans Arizi,145,20,NA,62
+2017,8,31,2017-08-31T00:00:00Z,Fort Weatherill,2,3,TAON,Austin Humphries,NA,Austin Humphries,Evans Arizi,1,4,1,NA
