@@ -211,7 +211,7 @@ process_kelp <- function(a_kelp_df){
     
     #because some folk forgot
     mutate(DAY = lubridate::day(DATE)) %>%
-    mutate(YEAR = lubridate::year(DATE)) %>%
+    mutate(YEAR = as.numeric(YEAR)) %>%
     
     #get relevant columns
     select(NETWORK, PI, YEAR, MONTH, DAY, SITE, TRANSECT, SP_CODE,
