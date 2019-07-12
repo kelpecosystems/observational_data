@@ -198,8 +198,49 @@ process_pointcount <- function(adf){
 # head(process_pointcount(adf))
 
 
-process_subcanopy_sizedist <- function(adf){
-
+process_kelp <- function(a_kelp_df){
+  
+  #reshape data to something nice!
+  a_kelp_df %>%
+    
+    #fix some funky older column names
+    rename_at(vars(contains("SPECIES")), ~("SP_CODE")) %>%
+    rename_at(vars(starts_with("LENGTH")), ~"BLADE_LENGTH_CM") %>% 
+    rename_at(vars(contains("__")), ~str_replace(.x, "__", "_"))%>% 
+    rename_at(vars(ends_with("_")), ~str_replace(.x, "M_", "M")) %>%
+    
+    #because some folk forgot
+    mutate(DAY = lubridate::day(DATE)) %>%
+    mutate(YEAR = lubridate::year(DATE)) %>%
+    
+    #get relevant columns
+    select(NETWORK, PI, YEAR, MONTH, DAY, SITE, TRANSECT, SP_CODE,
+           BLADE_LENGTH_CM, WIDTH_CM, STIPE_LENGTH_CM) %>%
+    
+    #deal with some NAs and bad SP names
+    mutate(STIPE_LENGTH_CM = as.numeric(STIPE_LENGTH_CM),
+           SP_CODE = str_replace(SP_CODE, "SCUZZY", "SADE"),
+           SP_CODE = str_replace(SP_CODE, "SAC", "SL"),
+           SP_CODE = str_replace(SP_CODE, "LD", "LADI")
+    ) %>%
+    #calculate biomass
+    mutate(WET_WEIGHT = case_when(
+      #SL from Gevaert et al. 2001 JMBA
+      #Witman 2018 is  0.00421 L ^ 1.951,
+      SP_CODE == "SL" ~ 0.00949*(BLADE_LENGTH_CM+STIPE_LENGTH_CM)^1.782,
+      SP_CODE == "SLJ" ~ 0.00949*(BLADE_LENGTH_CM+STIPE_LENGTH_CM)^1.782,
+      #LADI from Witman et al. 2018
+      SP_CODE == "LADI" ~  0.000942*(BLADE_LENGTH_CM+STIPE_LENGTH_CM)^2.4541,
+      SP_CODE == "AGCL" ~ 0.013511*(BLADE_LENGTH_CM+STIPE_LENGTH_CM)^1.9486,
+      TRUE ~ NA_real_
+    ),
+    DRY_WEIGHT = case_when(
+      #SL from Gevaert et al. 2001 JMBA
+      SP_CODE == "SL" ~ 0.00387*(BLADE_LENGTH_CM+STIPE_LENGTH_CM)^1.469,
+      SP_CODE == "SLJ" ~ 0.00387*(BLADE_LENGTH_CM+STIPE_LENGTH_CM)^1.469,
+      TRUE ~ NA_real_
+    )) 
+  
 }
 
 process_temperature <- function(adf){

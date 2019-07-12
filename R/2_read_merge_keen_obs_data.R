@@ -48,6 +48,10 @@
   sites <- map_df(files[grep("[S,s]ite", files)],
                  ~process_siteinfo(read_keen_data(.x, debug=T)))
   
+  kelp <- map(files[grep("[K,k]elp", files)],
+                 ~read_keen_data(.x, debug = T)) %>%
+    map_df(process_kelp) 
+  
   #######
   #merge each data type with the species list
   #######
@@ -55,6 +59,7 @@
   quadsWithSp <- left_join(quads, spList, by=c("SP_CODE" = "SPECIES.CODE"))
   swathWithSp <- left_join(swath, spList, by=c("SP_CODE" = "SPECIES.CODE"))
   fishWithSp <- left_join(fish, spList, by=c("SP_CODE" = "SPECIES.CODE"))
+  kelpWithSp <- left_join(kelp, spList, by=c("SP_CODE" = "SPECIES.CODE"))
   
   #remember to deal with substrate in cover
   coverWithSp <- left_join(cover, spList, by=c("SP_CODE" = "SPECIES.CODE")) %>%
@@ -92,9 +97,18 @@
            COMMON.NAME, KINGDOM, PHYLUM, CLASS, ORDER, FAMILY, 
            GENUS, SPECIES)
   
+  kelpWithSp <- kelpWithSp %>%
+    select(NETWORK, PI, YEAR, MONTH, DAY, SITE, TRANSECT, SP_CODE, 
+           BLADE_LENGTH_CM, WIDTH_CM, STIPE_LENGTH_CM,
+           WET_WEIGHT, DRY_WEIGHT,
+           GROUP, DIVISION.FAMILY, COMMON.DIVISION.NAME, SIZE, 
+           COMMON.NAME, KINGDOM, PHYLUM, CLASS, ORDER, FAMILY, 
+           GENUS, SPECIES)
+  
   write.csv(quadsWithSp, "../derived_data/keen_quads.csv", row.names=FALSE)
   write.csv(swathWithSp, "../derived_data/keen_swath.csv", row.names=FALSE)
   write.csv(fishWithSp, "../derived_data/keen_fish.csv", row.names=FALSE)
   write.csv(coverWithSp, "../derived_data/keen_cover.csv", row.names=FALSE)
+  write.csv(kelpWithSp, "../derived_data/keen_kelp.csv", row.names=FALSE)
   
   write.csv(sites, "../derived_data/keen_sites.csv", row.names=FALSE)
