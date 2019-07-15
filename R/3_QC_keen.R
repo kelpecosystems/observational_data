@@ -7,6 +7,7 @@
 #' and if it fails, writes the error out
 #' 
 #' @changelog
+#' 2019-07-14: added kelp
 #' 2018-04-14: added fix for bad fish size classes (-100 to >100)
 ################################
 
@@ -37,6 +38,9 @@ coverWithSp <- read.csv("../derived_data/keen_cover.csv", stringsAsFactors = FAL
   name_gsub
 
 
+kelpWithSp <- read.csv("../derived_data/keen_kelp.csv", stringsAsFactors = FALSE) %>%
+  name_gsub
+
 sites <- read.csv( "../derived_data/keen_sites.csv", stringsAsFactors = FALSE) %>%
   name_gsub %>%
   mutate(START_LONGITUDE = ifelse(NETWORK=="KEEN ONE" & START_LONGITUDE>0, -1*START_LONGITUDE, START_LONGITUDE),
@@ -59,9 +63,12 @@ quads_unique <- quadsWithSp %>% get_unique %>% summarize(PROTOCOL="QUAD")
 swath_unique <- swathWithSp %>% get_unique %>% summarize(PROTOCOL="SWATH")
 fish_unique <- fishWithSp %>% get_unique %>% summarize(PROTOCOL="FISH")
 cover_unique <- coverWithSp %>% get_unique %>% summarize(PROTOCOL="UPC")
+kelp_unique <- kelpWithSp %>% get_unique %>% summarize(PROTOCOL="KELP")
 
 #put them together and see what is missing
-unique_sites <- rbind(quads_unique, swath_unique, fish_unique, cover_unique)
+unique_sites <- rbind(quads_unique, swath_unique, 
+                      fish_unique, cover_unique,
+                      kelp_unique) %>% ungroup()
 
 #to see
 #unique(unique_sites$SITE)
@@ -69,17 +76,22 @@ unique_sites <- rbind(quads_unique, swath_unique, fish_unique, cover_unique)
 
 problem_sites <- unique_sites %>%
   group_by(PI, YEAR, SITE, TRANSECT) %>%
-  tally %>%
-  filter(n<4)
+  summarize(PROTOCOLS = list(unique(PROTOCOL))) %>%
+  mutate(n = map_dbl(PROTOCOLS, length)) %>%
+  filter(n<5) 
 
 
-protocols <- c("QUAD", "SWATH", "FISH", "UPC")
+protocols <- c("QUAD", "SWATH", "FISH", "UPC", "KELP")
 
-missing_data <- full_join(unique_sites, problem_sites) %>%
-  filter(n < 4) %>%
-  group_by(PI, YEAR, SITE, TRANSECT) %>%
-  summarize(missing = paste(protocols[!(protocols %in% PROTOCOL)], collapse=",")) %>%
+missing_data <- problem_sites %>%
+  mutate(missing = map_chr(PROTOCOLS, 
+                       ~paste0(protocols[!(protocols %in% .x)], collapse = ","))) %>%
+  select(-PROTOCOLS)%>%
   arrange(PI)
+
+#checks
+kelpWithSp %>% filter(YEAR==2015) %>% filter(PI=="Grabowski") %>%
+  filter(TRANSECT == "Pumphouse Beach 3")
 
 #write report out if needed
 if(length(missing_data$SITE) > 0){
@@ -271,5 +283,6 @@ write.csv(quadsWithSp, "../cleaned_data/keen_quads.csv", row.names=FALSE)
 write.csv(swathWithSp, "../cleaned_data/keen_swath.csv", row.names=FALSE)
 write.csv(fishWithSp, "../cleaned_data/keen_fish.csv", row.names=FALSE)
 write.csv(coverWithSp, "../cleaned_data/keen_cover.csv", row.names=FALSE)
+write.csv(kelpWithSp, "../cleaned_data/keen_kelp.csv", row.names=FALSE)
 
 write.csv(sites, "../cleaned_data/keen_sites.csv", row.names=FALSE)

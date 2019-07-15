@@ -44,12 +44,20 @@ name_gsub <- . %>%
   mutate(SITE = gsub("Canoe$", "Canoe Beach", SITE)) %>%
   mutate(SITE = gsub("Pemaquid, ME", "Pemaquid", SITE)) %>%
   mutate(SITE = gsub("PEMA", "Pemaquid", SITE)) %>%
-  mutate(SITE = gsub("Pema", "Pemaquid", SITE)) %>%
-  mutate(SITE = gsub("HURR", "Hurricane Island", SITE)) %>%
-  mutate(SITE = gsub("Hurr", "Hurricane Island", SITE)) %>%
+  mutate(SITE = gsub("Pema$", "Pemaquid", SITE)) %>%
+  mutate(SITE = gsub("Scho$", "Schoodic", SITE)) %>%
+  mutate(SITE = gsub("HURR$", "Hurricane Island", SITE)) %>%
+  mutate(SITE = gsub("Hurr$", "Hurricane Island", SITE)) %>%
   mutate(SITE = gsub("Pumphouse$", "Pumphouse Beach", SITE)) %>%
+  mutate(SITE = gsub("PHB", "Pumphouse Beach", SITE)) %>%
+  mutate(SITE = gsub("Fort Wetherill", "Fort Weatherill", SITE)) %>%
+  mutate(SITE = gsub("Fort Wetherill", "Fort Weatherill", SITE)) %>%
   mutate(SITE = gsub("Fort Wetherill", "Fort Weatherill", SITE)) %>%
   mutate(SITE = str_remove(SITE, ", Nahant, MA")) %>%
+  mutate(TRANSECT = ifelse(SITE=="Canoe Beach", paste0("Canoe Beach ", TRANSECT), TRANSECT)) %>%
+  mutate(TRANSECT = ifelse(SITE=="Pumphouse Beach", paste0("Pumphouse Beach ", TRANSECT), TRANSECT)) %>%
+  mutate(SITE = gsub("Canoe Beach", "Nahant", SITE)) %>%
+  mutate(SITE = gsub("Pumphouse Beach", "Nahant", SITE)) %>%
   mutate(TRANSECT = gsub("\\&", "and", TRANSECT)) %>%
   mutate(TRANSECT = gsub("DEVILS_DANCE_FLOOR", "Devil's Dance Floor", TRANSECT)) %>%
   mutate(TRANSECT = gsub("BROAD_COVE", "Broad Cove", TRANSECT)) %>%
@@ -67,5 +75,5 @@ name_gsub <- . %>%
   mutate(TRANSECT = gsub("SOUTH_SMITHS_COVE", "South Smith's Cove", TRANSECT)) %>%
   mutate(TRANSECT = gsub("Broad cove", "Broad Cove", TRANSECT)) %>%
   mutate(TRANSECT = gsub("Broadway$", "Broadway and 42nd", TRANSECT)) %>%
+  mutate(TRANSECT = gsub("Sandpiper$", "Sandpiper Beach", TRANSECT)) %>%
   mutate(TRANSECT = gsub("Sandpiper$", "Sandpiper Beach", TRANSECT)) 
-  
