@@ -140,3 +140,125 @@ ggplot(swath_wide,
 
 ## More?
 If you have other types of analyses you'd like to see here, please, file an issue report and I'll add it!
+
+```{r echo=FALSE, eval=FALSE}
+ggplot(kelp_summary_quad %>%
+         filter(PI =="Byrnes") %>%
+         filter(SITE != "Cape Elizabeth")%>%
+         filter(SITE != "SW Appledore")  ,
+       aes(x=YEAR, y=COUNT, color=SITE)) +
+  geom_line() +
+  stat_summary(data=quads %>%
+                 filter(SP_CODE == "SL")%>%
+         filter(PI =="Byrnes")%>%
+         filter(SITE != "Cape Elizabeth")%>%
+         filter(SITE != "SW Appledore")) +
+  theme_bw(base_size=18) +
+  scale_x_continuous(breaks=c(2014, 2015, 2016)) +
+  labs(title="Saccharina latissima") +
+  ylab("# Per Square Meter") + xlab("")
+
+
+## All Kelp Quad
+akq <- quads %>%
+                 filter(ORDER =="Laminariales") %>%
+  filter(SITE != "Cape Elizabeth")%>%
+         filter(SITE != "SW Appledore")%>%
+         filter(SITE != "Nubble") %>%
+  group_by(PI, SITE, START_LATITUDE, TRANSECT, YEAR) %>%
+  summarise(COUNT = sum(COUNT, na.rm=T)/6) %>%
+  ungroup()
+
+ggplot(akq %>% group_by(START_LATITUDE) %>%
+         summarise(COUNT = mean(COUNT))) +
+  aes(x=START_LATITUDE, y=COUNT) +
+  geom_point()
+  
+ggplot(data=akq) +
+  aes(x=SITE, y=COUNT) +
+  geom_boxplot()
+
+ggplot(data=akq) +
+  aes(x=YEAR, y=COUNT) +
+  stat_summary() +
+  scale_x_continuous(breaks=c(2014:2016)) +
+  geom_line(data=akq %>% group_by(YEAR) %>% summarise(COUNT=mean(COUNT)) %>% ungroup()) +
+  theme_bw(base_size=17) +
+  ylab("# Kelps per sq m") +
+  xlab("") +
+  annotate(geom="text",
+           x=2014:2016, y=17.5,
+           label=c("2.7ºC", "2.0ºC", "4.8ºC"),
+           size=4)
+
+
+ggplot(data=akq %>% filter(PI=="Byrnes")) +
+  aes(x=YEAR, y=COUNT, color=SITE) +
+  stat_summary() +
+  scale_x_continuous(breaks=c(2014:2016)) +
+  geom_line(data=akq %>% 
+              filter(PI=="Byrnes") %>%
+              group_by(YEAR, SITE) %>% 
+              summarise(COUNT=mean(COUNT)) %>% ungroup()) +
+  theme_bw(base_size=17) +
+  ylab("# Kelps per sq m") +
+  xlab("") +
+  scale_color_manual(values=RColorBrewer::brewer.pal(6, "RdBu"))
+
+
+
+## All Kelp Cover
+
+cover <-read.csv("./cleaned_data/keen_cover.csv",
+                 stringsAsFactors=FALSE) %>% 
+  select(-DAY, -MONTH) %>%
+  left_join(sites_summary) %>%
+  mutate(SITE = factor(SITE)) %>%
+  mutate(SITE = fct_reorder(SITE, START_LATITUDE))
+
+akc <- cover %>%
+                 filter(ORDER =="Laminariales") %>%
+  filter(SITE != "Cape Elizabeth")%>%
+         filter(SITE != "SW Appledore")%>%
+         filter(SITE != "Nubble") %>%
+  group_by(PI, START_LATITUDE, SITE, TRANSECT, YEAR) %>%
+  summarise(PERCENT_COVER = sum(PERCENT_COVER, na.rm=T)) %>%
+  ungroup()
+
+
+ggplot(data=akc) +
+  aes(x=SITE, y=PERCENT_COVER) +
+  geom_boxplot()
+
+ggplot(data=akc) +
+  aes(x=YEAR, y=PERCENT_COVER) +
+  stat_summary() +
+  scale_x_continuous(breaks=c(2014:2016)) +
+  geom_line(data=akc %>% group_by(YEAR) %>% summarise(PERCENT_COVER=mean(PERCENT_COVER)) %>% ungroup()) +
+  theme_bw(base_size=17) +
+  ylab("Kelp % Cover") +
+  xlab("")
+
+ggplot(data=akc %>% filter(PI=="Byrnes")) +
+  aes(x=YEAR, y=PERCENT_COVER, color=SITE) +
+  stat_summary() +
+  scale_x_continuous(breaks=c(2014:2016)) +
+  geom_line(data=akc %>% 
+              filter(PI=="Byrnes") %>%
+              group_by(YEAR, SITE) %>% 
+              summarise(PERCENT_COVER=mean(PERCENT_COVER)) %>% ungroup()) +
+  theme_bw(base_size=17) +
+  ylab("# Kelps per sq m") +
+  xlab("") +
+  scale_color_manual(values=RColorBrewer::brewer.pal(6, "RdBu"))
+
+ggplot(akc) +
+  aes(x=START_LATITUDE, y=PERCENT_COVER) +
+  geom_point() +
+  facet_wrap(~YEAR) + stat_smooth(method="lm")
+
+mod <- lm(PERCENT_COVER ~ START_LATITUDE*factor(YEAR), data=akc)
+car::Anova(mod)
+summary(mod)
+coef(mod)[2] + coef(mod)[6]
+```
