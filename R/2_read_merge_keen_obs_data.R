@@ -36,7 +36,7 @@
                   ~process_quad(read_keen_data(.x, debug=T))) %>%
     mutate(COUNT = ifelse(is.na(COUNT), 0, COUNT)) #Deals with quads that are empty, and provides understandable 0s
   
-  swath <- map_df(files[grepl("[s,S]wath", files)],
+  swath <- map_df(files[grepl("[s,S][W,w][A,a][T,t][H,h]", files)],
                   ~process_swath(read_keen_data(.x, debug=T)))
   
   fish <- map_df(files[grepl("[f,F][I,i][S,s][H,h]", files)],
@@ -45,10 +45,10 @@
   cover <- map_df(files[grepl("[U,u][P,p][C,c]", files)],
                   ~process_pointcount(read_keen_data(.x, debug=T)))
   
-  sites <- map_df(files[grep("[S,s]ite", files)],
+  sites <- map_df(files[grep("[S,s][I,i][T,t][E,e]", files)],
                  ~process_siteinfo(read_keen_data(.x, debug=T)))
   
-  kelp <- map(files[grep("[K,k]elp", files)],
+  kelp <- map(files[grep("[K,k][E,e][L,l][P,p]", files)],
                  ~read_keen_data(.x, debug = T)) %>%
     map_df(process_kelp) 
   

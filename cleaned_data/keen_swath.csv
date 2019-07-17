@@ -2931,10 +2931,6 @@
 "KEEN ONE","Byrnes",2017,8,2,"Calf Island","2","SOEN","20-0","O",0,20,"Invertebrate","Echinoderms","Sea Stars",NA,"Smooth Sun Star","Animalia","Echinodermata","Asteroidea","Valvatida","Solasteridae","Solaster","Solaster endeca",NA
 "KEEN ONE","Byrnes",2017,8,2,"Calf Island","2","SOEN","20-40","I",0,20,"Invertebrate","Echinoderms","Sea Stars",NA,"Smooth Sun Star","Animalia","Echinodermata","Asteroidea","Valvatida","Solasteridae","Solaster","Solaster endeca",NA
 "KEEN ONE","Byrnes",2017,8,2,"Calf Island","2","SOEN","40-20","O",1,20,"Invertebrate","Echinoderms","Sea Stars",NA,"Smooth Sun Star","Animalia","Echinodermata","Asteroidea","Valvatida","Solasteridae","Solaster","Solaster endeca",NA
-"KEEN ONE","Byrnes",2017,8,3,"Calf Island","3",NA,"0-20","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"KEEN ONE","Byrnes",2017,8,3,"Calf Island","3",NA,"20-0","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"KEEN ONE","Byrnes",2017,8,3,"Calf Island","3",NA,"20-40","I",1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"KEEN ONE","Byrnes",2017,8,3,"Calf Island","3",NA,"40-20","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2017,8,3,"Calf Island","3","ASRU","0-20","I",0,20,"Invertebrate","Echinoderms","Sea Stars",NA,"Common Star","Animalia","Echinodermata","Asteroidea","Forcipulatida","Asteriidae","Asterias","Asterias rubens",NA
 "KEEN ONE","Byrnes",2017,8,3,"Calf Island","3","ASRU","20-0","O",1,20,"Invertebrate","Echinoderms","Sea Stars",NA,"Common Star","Animalia","Echinodermata","Asteroidea","Forcipulatida","Asteriidae","Asterias","Asterias rubens",NA
 "KEEN ONE","Byrnes",2017,8,3,"Calf Island","3","ASRU","20-40","I",0,20,"Invertebrate","Echinoderms","Sea Stars",NA,"Common Star","Animalia","Echinodermata","Asteroidea","Forcipulatida","Asteriidae","Asterias","Asterias rubens",NA
@@ -2971,6 +2967,10 @@
 "KEEN ONE","Byrnes",2017,8,3,"Calf Island","3","SCALLOP","20-0","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2017,8,3,"Calf Island","3","SCALLOP","20-40","I",1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2017,8,3,"Calf Island","3","SCALLOP","40-20","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,3,"Calf Island","3",NA,"0-20","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,3,"Calf Island","3",NA,"20-0","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,3,"Calf Island","3",NA,"20-40","I",1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2017,8,3,"Calf Island","3",NA,"40-20","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2017,8,3,"Calf Island","4","CABO","0-20","I",1,20,"Invertebrate","Arthropods","Crustaceans",NA,"Jonah Crab","Animalia","Arthropoda","Malacostraca","Decapoda","Cancridae","Cancer","Cancer borealis","NA,NA"
 "KEEN ONE","Byrnes",2017,8,3,"Calf Island","4","CABO","20-0","O",1,20,"Invertebrate","Arthropods","Crustaceans",NA,"Jonah Crab","Animalia","Arthropoda","Malacostraca","Decapoda","Cancridae","Cancer","Cancer borealis","NA,NA"
 "KEEN ONE","Byrnes",2017,8,3,"Calf Island","4","CABO","20-40","I",2,20,"Invertebrate","Arthropods","Crustaceans",NA,"Jonah Crab","Animalia","Arthropoda","Malacostraca","Decapoda","Cancridae","Cancer","Cancer borealis","NA,NA"
@@ -3699,10 +3699,6 @@
 "KEEN ONE","Byrnes",2018,8,29,"NW Appledore","North Head","PHGU","20-0","O",0,20,"Fish","Chordates","Fish",NA,"Rock gunnel","Animalia","Chordata","Actinopterygii","Perciformes","Pholidae","Pholis","Pholis gunnellus",NA
 "KEEN ONE","Byrnes",2018,8,29,"NW Appledore","North Head","PHGU","20-40","I",1,20,"Fish","Chordates","Fish",NA,"Rock gunnel","Animalia","Chordata","Actinopterygii","Perciformes","Pholidae","Pholis","Pholis gunnellus",NA
 "KEEN ONE","Byrnes",2018,8,29,"NW Appledore","North Head","PHGU","40-20","O",0,20,"Fish","Chordates","Fish",NA,"Rock gunnel","Animalia","Chordata","Actinopterygii","Perciformes","Pholidae","Pholis","Pholis gunnellus",NA
-"KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Larus Ledge",NA,"0-20","I",1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Larus Ledge",NA,"20-0","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Larus Ledge",NA,"20-40","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Larus Ledge",NA,"40-20","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Larus Ledge","CABO","0-20","I",1,20,"Invertebrate","Arthropods","Crustaceans",NA,"Jonah Crab","Animalia","Arthropoda","Malacostraca","Decapoda","Cancridae","Cancer","Cancer borealis",NA
 "KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Larus Ledge","CABO","20-0","O",5,20,"Invertebrate","Arthropods","Crustaceans",NA,"Jonah Crab","Animalia","Arthropoda","Malacostraca","Decapoda","Cancridae","Cancer","Cancer borealis",NA
 "KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Larus Ledge","CABO","20-40","I",4,20,"Invertebrate","Arthropods","Crustaceans",NA,"Jonah Crab","Animalia","Arthropoda","Malacostraca","Decapoda","Cancridae","Cancer","Cancer borealis",NA
@@ -3723,6 +3719,10 @@
 "KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Larus Ledge","PHGU","20-0","O",1,20,"Fish","Chordates","Fish",NA,"Rock gunnel","Animalia","Chordata","Actinopterygii","Perciformes","Pholidae","Pholis","Pholis gunnellus",NA
 "KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Larus Ledge","PHGU","20-40","I",1,20,"Fish","Chordates","Fish",NA,"Rock gunnel","Animalia","Chordata","Actinopterygii","Perciformes","Pholidae","Pholis","Pholis gunnellus",NA
 "KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Larus Ledge","PHGU","40-20","O",2,20,"Fish","Chordates","Fish",NA,"Rock gunnel","Animalia","Chordata","Actinopterygii","Perciformes","Pholidae","Pholis","Pholis gunnellus",NA
+"KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Larus Ledge",NA,"0-20","I",1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Larus Ledge",NA,"20-0","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Larus Ledge",NA,"20-40","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Larus Ledge",NA,"40-20","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Sandpiper Beach","ASFO","0-20","I",0,20,"Invertebrate","Echinoderms","Sea Stars",NA,"Forbes Star","Animalia","Echinodermata","Asteroidea","Forcipulatida","Asteriidae","Asterias","Asterias forbesi",NA
 "KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Sandpiper Beach","ASFO","20-0","O",1,20,"Invertebrate","Echinoderms","Sea Stars",NA,"Forbes Star","Animalia","Echinodermata","Asteroidea","Forcipulatida","Asteriidae","Asterias","Asterias forbesi",NA
 "KEEN ONE","Byrnes",2018,8,30,"NW Appledore","Sandpiper Beach","ASFO","20-40","I",0,20,"Invertebrate","Echinoderms","Sea Stars",NA,"Forbes Star","Animalia","Echinodermata","Asteroidea","Forcipulatida","Asteriidae","Asterias","Asterias forbesi",NA
@@ -3831,10 +3831,6 @@
 "KEEN ONE","Byrnes",2018,8,31,"SW Appledore","South Smith's Cove","PHGU","20-0","O",0,20,"Fish","Chordates","Fish",NA,"Rock gunnel","Animalia","Chordata","Actinopterygii","Perciformes","Pholidae","Pholis","Pholis gunnellus",NA
 "KEEN ONE","Byrnes",2018,8,31,"SW Appledore","South Smith's Cove","PHGU","20-40","I",0,20,"Fish","Chordates","Fish",NA,"Rock gunnel","Animalia","Chordata","Actinopterygii","Perciformes","Pholidae","Pholis","Pholis gunnellus",NA
 "KEEN ONE","Byrnes",2018,8,31,"SW Appledore","South Smith's Cove","PHGU","40-20","O",2,20,"Fish","Chordates","Fish",NA,"Rock gunnel","Animalia","Chordata","Actinopterygii","Perciformes","Pholidae","Pholis","Pholis gunnellus",NA
-"KEEN ONE","Cleaver",2016,8,9,"Hurricane Island","1",NA,"0-20","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"KEEN ONE","Cleaver",2016,8,9,"Hurricane Island","1",NA,"20-0","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"KEEN ONE","Cleaver",2016,8,9,"Hurricane Island","1",NA,"20-40","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"KEEN ONE","Cleaver",2016,8,9,"Hurricane Island","1",NA,"40-20","O",1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Cleaver",2016,8,9,"Hurricane Island","1","BUUN","0-20","I",0,20,"Invertebrate","Molluscs","Gastropods",NA,"Wavy Whelk","Animalia","Mollusca","Gastropoda","Neogastropoda","Buccinidae","Buccinum","Buccinum undatum",NA
 "KEEN ONE","Cleaver",2016,8,9,"Hurricane Island","1","BUUN","20-0","O",0,20,"Invertebrate","Molluscs","Gastropods",NA,"Wavy Whelk","Animalia","Mollusca","Gastropoda","Neogastropoda","Buccinidae","Buccinum","Buccinum undatum",NA
 "KEEN ONE","Cleaver",2016,8,9,"Hurricane Island","1","BUUN","20-40","I",0,20,"Invertebrate","Molluscs","Gastropods",NA,"Wavy Whelk","Animalia","Mollusca","Gastropoda","Neogastropoda","Buccinidae","Buccinum","Buccinum undatum",NA
@@ -3851,6 +3847,10 @@
 "KEEN ONE","Cleaver",2016,8,9,"Hurricane Island","1","HOAM","20-0","O",0,20,"Invertebrate","Arthropods","Crustaceans",NA,"American lobster","Animalia","Arthropoda","Malacostraca","Decapoda","Nephropidae","Homarus","Homarus americanus",NA
 "KEEN ONE","Cleaver",2016,8,9,"Hurricane Island","1","HOAM","20-40","I",0,20,"Invertebrate","Arthropods","Crustaceans",NA,"American lobster","Animalia","Arthropoda","Malacostraca","Decapoda","Nephropidae","Homarus","Homarus americanus",NA
 "KEEN ONE","Cleaver",2016,8,9,"Hurricane Island","1","HOAM","40-20","O",1,20,"Invertebrate","Arthropods","Crustaceans",NA,"American lobster","Animalia","Arthropoda","Malacostraca","Decapoda","Nephropidae","Homarus","Homarus americanus",NA
+"KEEN ONE","Cleaver",2016,8,9,"Hurricane Island","1",NA,"0-20","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Cleaver",2016,8,9,"Hurricane Island","1",NA,"20-0","O",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Cleaver",2016,8,9,"Hurricane Island","1",NA,"20-40","I",0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KEEN ONE","Cleaver",2016,8,9,"Hurricane Island","1",NA,"40-20","O",1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "KEEN ONE","Cleaver",2016,8,15,"Hurricane Island","2","CABO","0-20","I",0,20,"Invertebrate","Arthropods","Crustaceans",NA,"Jonah Crab","Animalia","Arthropoda","Malacostraca","Decapoda","Cancridae","Cancer","Cancer borealis",NA
 "KEEN ONE","Cleaver",2016,8,15,"Hurricane Island","2","CABO","20-0","O",1,20,"Invertebrate","Arthropods","Crustaceans",NA,"Jonah Crab","Animalia","Arthropoda","Malacostraca","Decapoda","Cancridae","Cancer","Cancer borealis",NA
 "KEEN ONE","Cleaver",2016,8,15,"Hurricane Island","2","CABO","20-40","I",0,20,"Invertebrate","Arthropods","Crustaceans",NA,"Jonah Crab","Animalia","Arthropoda","Malacostraca","Decapoda","Cancridae","Cancer","Cancer borealis",NA
