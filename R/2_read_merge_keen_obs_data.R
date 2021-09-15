@@ -4,6 +4,8 @@
   #' 
   ######################################################################
   
+  setwd(paste0(here::here(), "/", "R"))
+  
   #Load the functions for processing different kinds of KEEN data
   source("./keen_processing_functions.R")
   
@@ -24,6 +26,7 @@
   files <- files[!grepl("\\~", files)] #system files
   files <- files[!grepl("Scan", files)] #images
   files <- files[!grepl("jpeg", files)] #images
+  files <- files[!grepl("Icon", files)] #weird Mac Icon files
   files <- files[!grepl("DO_NOT_LOAD", files)] #if I had to reprocess files
   
   ########
