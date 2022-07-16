@@ -12,7 +12,7 @@ read_keen_data <- function(filename, sheet=1, debug=FALSE){
   
   adf <- read_excel(filename, sheet=sheet) 
   names(adf) <- toupper(names(adf))
- # if(debug) print(warnings())
+  if(debug) print(warnings())
   
   
   class(adf$TRANSECT) <- "character" #not everyone uses numbers
